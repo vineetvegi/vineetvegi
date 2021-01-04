@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Venkat Vineet Vegi, a recent graduate with Masters in Informatics from Northeastern Univeristy, Boston. I am passionate about writing code and I like to code in JavaScript, Python, Java. 
 <!--
 **vineetvegi/vineetvegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
